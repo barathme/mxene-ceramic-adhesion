@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite our work as below."
+authors:
+  - family-names: Mishra
+    given-names: Namrata
+    affiliation: Gandhi Engineering College, Biju Patnaik University of Technology, Odisha, India
+  - family-names: Baradeswaran
+    given-names: A
+    affiliation: Gandhi Engineering College, Bhubaneswar, India
+title: Explainable Machine Learning Framework for Predicting Interfacial Adhesion in MXene–Ceramic Heterostructures
+version: 1.0.0
+date-released: 2025-07-29
+Under review - article
+url: https://github.com/your-username/mxene-ceramic-adhesion
