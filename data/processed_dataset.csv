@@ -1,0 +1,4 @@
+termination_type,atomic_size_mismatch,lattice_mismatch,charge_transfer,adhesion_energy
+O,0.15,4.2,0.38,1.22
+F,0.14,6.1,0.22,0.78
+OH,0.16,3.9,0.31,1.05

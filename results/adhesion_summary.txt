@@ -1,0 +1,2 @@
+O-terminated interfaces show highest adhesion.
+F-terminated interfaces show weakest bonding.
